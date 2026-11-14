@@ -41,7 +41,7 @@ Vaultis is a SPA that consumes the Akabab Superhero API to list 731 characters. 
 
 # > <code>⠀⠀💻 Tech Stack⠀⠀</code>
 
-<div align="center">
+<div >
 
 ### Languanges
 ![HTML5](https://img.shields.io/badge/HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white)
