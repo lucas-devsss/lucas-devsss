@@ -1,27 +1,28 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,35&height=200&section=header&text=Caio%20Lucas&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer&descSize=20&descAlignY=55)
+![Header](https://i.pinimg.com/originals/20/b6/f8/20b6f83d93b6302542af54bc04f48bf5.gif)
 
-  <a href="https://www.linkedin.com/in/lucas-devsss/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/lucas-devsss">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<h3>Hello there, welcome to my profile :D</h3>
+
+<h2>I'm a Front-End Developer and Software Engineering student from Brazil</h2>
+
+
 </div>
+ <p align="right">
 
----
+    
+   &nbsp;&#10022; My name is Caio Lucas 👋
 
-## 🥇 About Me
+   &nbsp;&#10022; I'm currently working/studying with React, Next.js, and TypeScript, developing personal projects and exploring different ways to build useful, accessible, and well-structured web experiences.
 
-- 💻 Volunteer Front-End Developer at Anthem, building a career guidance platform with Next.js and TypeScript
-- 🎓 Software Engineering student
-- ⚛️ Focused on the React ecosystem: React, Next.js, TypeScript and Tailwind CSS
-- 🎨 I like going from Figma prototype to production
-- 🌎 Open to international opportunities
-- ⛩️ Currently re-watching YuYu hakusho :D
+   &nbsp;&#10022; Working in a volunteer career guidance platform as a frontend  developer and collaborating with developers and people from different areas.
 
----
+   &nbsp;&#10022; I enjoy drawing, watching anime, playing games, listening to music, and creating stories of my own. 
+   
+   &nbsp;&#10022; My Christian faith is also an important part of who I am and how I see life.
+
+   &nbsp;&#10022; I'm always curious, always learning, and usually finding something new to work on!
+  </p>
 
 ## Featured projects
 
