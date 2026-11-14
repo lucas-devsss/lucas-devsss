@@ -4,31 +4,27 @@
 
 <h3>Hello there, welcome to my profile :D</h3>
 
-<h2>I'm a Front-End Developer and Software Engineering student from Brazil</h2>
-
-
+ <h2>I'm a Front-End Developer and Software Engineering student from Brazil</h2>
 </div>
  <p align="right">
+  
+  - My name is Caio Lucas 👋
 
-    
-   &nbsp;&#10022; My name is Caio Lucas 👋
+  - Currently working with React, Next.js, and TypeScript, developing personal projects and exploring different ways to build useful, accessible, and well-structured web experiences.
 
-   &nbsp;&#10022; I'm currently working/studying with React, Next.js, and TypeScript, developing personal projects and exploring different ways to build useful, accessible, and well-structured web experiences.
+   - Working in a volunteer career guidance platform as a frontend  developer and collaborating with developers and people from different areas.
 
-   &nbsp;&#10022; Working in a volunteer career guidance platform as a frontend  developer and collaborating with developers and people from different areas.
-
-   &nbsp;&#10022; I enjoy drawing, watching anime, playing games, listening to music, and creating stories of my own. 
+   - I enjoy drawing, watching animes, playing games, listening to music, and creating stories of my own. 
    
-   &nbsp;&#10022; My Christian faith is also an important part of who I am and how I see life.
+   - My Christian faith is also an important part of who I am and how I see life.
 
-   &nbsp;&#10022; I'm always curious, always learning, and usually finding something new to work on!
+   - I'm always curious, always learning, and usually finding something new to work on! 
   </p>
 
-## Featured projects
+# > <code>⠀⠀🌟 Top⠀Projects⠀⠀</code>
 
 ### 📌 Vaultis
 
-#### **Stack:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -42,7 +38,8 @@ Vaultis is a SPA that consumes the Akabab Superhero API to list 731 characters. 
 ---
 
 
-## :computer: Tech Stack
+
+# > <code>⠀⠀💻 Tech Stack⠀⠀</code>
 
 <div align="center">
 
