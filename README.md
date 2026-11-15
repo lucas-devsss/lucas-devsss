@@ -20,6 +20,8 @@
 
    - I'm always curious, always learning, and usually finding something new to work on! 
   </p>
+  
+---
 
 # > <code>⠀⠀🌟 Top⠀Projects⠀⠀</code>
 
@@ -78,9 +80,42 @@ Vaultis is a SPA that consumes the Akabab Superhero API to list 731 characters. 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-BD34FE?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
 </div>
 
 ---
+
+
+# > <code>⠀⠀📖 Currently learning⠀⠀</code>
+
+- **Frontend:** React patterns, Next.js and feature-based architecture.
+- **Full Stack Development:** Frontend-backend integration, API communication and data handling.
+- **Form Management:** React Hook Form (RHF), Zod and form validation.
+
+
+# > <code> Connect with me⠀</code>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-devsss/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/lucas-devsss">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a> -->
+  <a href="mailto:caiosoftwaredev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<div align="center">
+ 
+## Thank you for reaching out :D
+
+
+![Footer](https://media1.tenor.com/m/z1QD5mjxvZEAAAAC/yu-yu-hakusho.gif)
+
+</div>
