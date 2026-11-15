@@ -23,6 +23,21 @@
 
 # > <code>⠀⠀🌟 Top⠀Projects⠀⠀</code>
 
+### 📌 Portfolio
+
+![React](https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Shadcnui](https://img.shields.io/badge/shadcnui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white)
+
+#### **What is this project?**
+My personal portfolio, built to show who I am, what I build and how I think about frontend.
+
+🔗 [Repo](https://github.com/lucas-devsss/portfolio) 
+
+---
+
 ### 📌 Vaultis
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -53,9 +68,10 @@ Vaultis is a SPA that consumes the Akabab Superhero API to list 731 characters. 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![ReactRouter](https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white)
 
 
 ### Tools
